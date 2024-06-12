@@ -1,0 +1,10 @@
+name: Oluh mod,
+displayName: Oluh mod,
+description: "
+This is Oluh Mod
+и так же дискорд https://discord.gg/SSNCxSzU5M
+",
+author: "puro",
+minGameVersion: 146,
+version: 1.1,
+hidden: true

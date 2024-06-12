@@ -1,0 +1,8 @@
+    "type": "Wall",
+    "name": "Bitcoin Wall",
+    "health": 100,
+    "size": 1,
+    category: defense
+requirements: [
+  Bitcoin/10
+]

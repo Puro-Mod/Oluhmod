@@ -1,0 +1,9 @@
+{
+    "type": "material",
+    "name": "Bitcoin",
+    "description": "OMG this is Bitcoin",
+    "hardness": 1,
+    "cost": 2.0,
+    "color": "#F79413",
+    "tier": 2
+    }

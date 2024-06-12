@@ -1,0 +1,31 @@
+"type": PowerTurret,
+"name": LittleBite,
+"size": 1,
+"health": 50,
+range: 35,
+rotateSpeed: 8,
+reload: 30
+burstSpacing: 1
+shots: 2
+xRand: 1
+consumes: {
+  power: 5,
+}
+
+recoilAmount: 3
+shootSound: LittleBite
+
+shootType: {
+  type: BasicBulletType,
+  height: 4
+  width: 3
+  damage: 25
+  speed: 5
+  lifetime: 4
+  frontColor: dc5f5f
+  backColor: ffffff
+}
+category: turret
+requirements: [
+  Bitcoin/100
+]

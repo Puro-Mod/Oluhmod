@@ -1,0 +1,30 @@
+"type": ItemTurret,
+"size": 1,
+"health": 500,
+range: 70,
+rotateSpeed: 5,
+reload: 50
+burstSpacing: 1
+shots: 1
+xRand: 1
+recoilAmount: 3
+shootSound: Bitter
+ammoTypes: {
+  Bitcoin: {
+    type: BasicBulletType,
+    speed: 5
+    lifetime: 12
+    damage: 100
+    width: 1
+    height: 2
+    frontColor: #000000
+    backColor: #16537e
+    ammoMultiplier: 2
+    hitEffect: pointHit
+  }
+}
+
+category: turret
+requirements: [
+  Bitcoin/2000
+]
